@@ -18,4 +18,5 @@ beatshareApp.controller('PhoneListCtrl', function($scope) {
 	$scope.name = "World!";
 
 	$scope.orderProp = "age";
+
 });
